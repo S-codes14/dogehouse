@@ -23,7 +23,7 @@
     "@react-navigation/stack": "^5.14.3",
     "date-fns": "^2.19.0",
     "emoji-mart": "^3.0.1",
-    "formik": "^2.2.6",
+    "formik": "^2.2.9",
     "hark": "^1.2.3",
     "normalize-url": "^5.3.0",
     "react": "17.0.1",
