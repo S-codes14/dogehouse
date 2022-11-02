@@ -1947,7 +1947,7 @@ __metadata:
     mediasoup-client: ^3.6.30
     mutationobserver-shim: ^0.3.7
     next: 10.2.0
-    next-transpile-modules: ^7.0.0
+    next-transpile-modules: ^10.0.0
     normalize-url: 4
     nprogress: ^0.2.0
     postcss: ^8.2.13
@@ -8620,13 +8620,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"enhanced-resolve@npm:^5.7.0":
-  version: 5.8.0
-  resolution: "enhanced-resolve@npm:5.8.0"
+"enhanced-resolve@npm:^5.10.0":
+  version: 5.10.0
+  resolution: "enhanced-resolve@npm:5.10.0"
   dependencies:
     graceful-fs: ^4.2.4
     tapable: ^2.2.0
-  checksum: a3e1131c9ba0dd6f8276f068ddac4e6469d824ee8132f748e2734722b9f25360f4cb5a7fbec1cab8cd56815a6762e0bb1b8d088cbdf2a276d30d573ac5528bbb
+  checksum: 4a7d376104f5c2ecacea9f71ad10a7ab3ae0f344e4c0f8c92a25915a1127b29b31c177396a120f75f530a1530ed153526c0f8baa07417d24d8b076369d306973
   languageName: node
   linkType: hard
 
@@ -14045,13 +14045,12 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"next-transpile-modules@npm:^7.0.0":
-  version: 7.0.0
-  resolution: "next-transpile-modules@npm:7.0.0"
+"next-transpile-modules@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "next-transpile-modules@npm:10.0.0"
   dependencies:
-    enhanced-resolve: ^5.7.0
-    escalade: ^3.1.1
-  checksum: 9d0efd9be3ad64cf096ab2b9284687a15cca099fd579e83478580827df0d17cc1050207912cfa455cc3969f04c87d18d7ffee37e74a401148a6cfbfb3676ad50
+    enhanced-resolve: ^5.10.0
+  checksum: b369b6a2fd311f3d53a5d11b1aa3893d6483fa950201aa3979a15c6e15ee8b9d2247d387dec8aaaad80b56d73b8cea98324b0b84af8bd8e37d0f8b768b0a5e3f
   languageName: node
   linkType: hard
 
